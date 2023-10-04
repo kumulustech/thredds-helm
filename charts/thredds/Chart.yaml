@@ -1,0 +1,6 @@
+apiVersion: v2
+name: thredds
+description: Deploy the THREDDS Data Server
+type: application
+version: 0.1.2
+appVersion: "5.4"
