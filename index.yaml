@@ -3,6 +3,16 @@ entries:
   thredds:
   - apiVersion: v2
     appVersion: "5.4"
+    created: "2023-10-05T15:22:38.495798177Z"
+    description: Deploy the THREDDS Data Server
+    digest: 974f26a61ab76a31c892b0aafc07878bf2c39369285f3284e339fc01165f0393
+    name: thredds
+    type: application
+    urls:
+    - https://github.com/kumulustech/thredds-helm/releases/download/thredds-0.1.4/thredds-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: "5.4"
     created: "2023-10-04T23:15:53.384330226Z"
     description: Deploy the THREDDS Data Server
     digest: 7e605b3aeb58eec45cde76bacc71382cb6b09d4038996947241da58beb852cd1
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/kumulustech/thredds-helm/releases/download/thredds-0.1.2/thredds-0.1.2.tgz
     version: 0.1.2
-generated: "2023-10-04T23:15:53.384336026Z"
+generated: "2023-10-05T15:22:38.495806177Z"
